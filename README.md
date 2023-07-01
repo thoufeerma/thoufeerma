@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Thoufeer MA
-
-
+🌱 I’m currently learning---Flutter
+📫 How to reach me: Thoufeerma@gmail.com
 <!--
 **thoufeerma/thoufeerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
